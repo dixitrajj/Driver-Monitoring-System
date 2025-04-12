@@ -60,20 +60,6 @@ python drowsiness_detector.py
 
 - Press **Q** to exit the webcam window.
 
----
-
-### 📸 Demo Screenshot (optional)
-
-_Add a screenshot like this (if you want):_
-
-```
-cv2.putText(frame, "****************ALERT!****************", (10, 30), ...)
-```
-
-![demo](https://your-screenshot-link.com) *(replace with actual screenshot URL)*
-
----
-
 ### 💡 Customization
 
 - `thresh = 0.25`: Lower if it's too sensitive, raise if not sensitive enough.
